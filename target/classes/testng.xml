@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="shipwire-rest-tests">
-    <test name="Rest Service Tests for Shipwire API">
-        <classes>
-            <class name="com.shipwire.tests.Shipwire_RestServicesTests.RestServiceTest"/>     
-        </classes>
-    </test>
-</suite>
